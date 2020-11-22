@@ -37,7 +37,7 @@ public class MyHBaseWriter implements MyWriter {
         config.set("hadoop.security.authorization","false");
         config.set("hbase.security.authentication", "simple");
         config.set("hbase.security.authorization","false");
-	config.set("hbase.zookeeper.quorum","PROVIDE HERE YOUR HOSTNAME OR IP");
+	config.set("hbase.zookeeper.quorum","magikarp.fib.upc.es");
 
         this.connection = ConnectionFactory.createConnection(this.config);
         this.buffer = this.connection.getBufferedMutator(TableName.valueOf(tableName));

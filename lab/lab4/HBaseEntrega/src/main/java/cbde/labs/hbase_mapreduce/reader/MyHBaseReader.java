@@ -37,7 +37,7 @@ public class MyHBaseReader implements MyReader {
 	
 	public void open(String tableName) throws IOException {
 		this.config = HBaseConfiguration.create();
-		config.set("hbase.zookeeper.quorum","PROVIDE HERE YOUR HOSTNAME OR IP");
+		config.set("hbase.zookeeper.quorum","magikarp.fib.upc.es");
 		this.connection = ConnectionFactory.createConnection(config);
 		this.table = this.connection.getTable(TableName.valueOf(tableName));
 		

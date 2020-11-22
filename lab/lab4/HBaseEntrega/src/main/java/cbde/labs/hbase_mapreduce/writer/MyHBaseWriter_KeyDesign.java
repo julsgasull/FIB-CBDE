@@ -3,7 +3,7 @@ package cbde.labs.hbase_mapreduce.writer;
 public class MyHBaseWriter_KeyDesign extends MyHBaseWriter {
 
 	protected String nextKey() {
-		return null;
+		return data.get("type") + '_' + data.get("region") + '_' + key;
 	}
 		
 }
