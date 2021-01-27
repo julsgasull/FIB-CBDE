@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e8e7e3a-1c07-4316-b8a2-2928388a8fe2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__asm_asm_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_squareup_okio_okio_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__net_minidev_json_smart_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_client_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_htrace_htrace_core4_4_0_1_incubating.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapReduceEntrega/mapreduce1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1keEPLkAhn1sl1uTpgjaDQbRZuG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8e7e3a-1c07-4316-b8a2-2928388a8fe2" name="Default Changelist" comment="" />
+      <created>1606052632669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606052632669</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

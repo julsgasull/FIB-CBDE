@@ -21,6 +21,7 @@ public class Projection extends JobMapReduce {
             // Since the value is a CSV, just get the lines split by commas
             String[] values = value.toString().split(",");
             String projectionValue = Utils.getAttribute(values, projection[0]);
+
             // Get the CSV position of the attributes, do the projection and emit it
             StringBuilder newValue = new StringBuilder(projectionValue);
             for (int i = 1; i < projection.length; i++) {

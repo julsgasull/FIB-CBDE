@@ -8,7 +8,7 @@ import org.apache.hadoop.util.ToolRunner;
 
 public class MainLocal extends Configured implements Tool {
 
-    static String HADOOP_COMMON_PATH = "PROVIDE HERE YOUR PATH\\resources\\winutils";
+    static String HADOOP_COMMON_PATH = "/Users/juliagasullnavarro/Documents/uni/FIB-CBDE/lab/lab4/MapReduceEntrega/resources/winutilss";
     public int run(String[] args) throws Exception {
         Configuration conf = new Configuration();
         Job job = Job.getInstance(conf, "LocalMapReduce");
@@ -30,6 +30,9 @@ public class MainLocal extends Configured implements Tool {
         }
         else if (args[0].equals("-projectionCSV")) {
             Projection.configureJob(job, args[1], args[2]);
+        }
+        else if (args[0].equals("-join")) {
+            Join.configureJob(job, args[1], args[2]);
         }
 
         boolean success = job.waitForCompletion(true);

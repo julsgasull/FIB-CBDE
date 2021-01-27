@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1802e5a-ba96-424b-9974-b79622ba8bfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/AggregationAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/AggregationAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/Join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/MainLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/MainLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/Projection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/Projection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cbde/labs/hbase_mapreduce/Selection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1keEfoUBrgyl4h33aCz2dKDmYiP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="Application.selection">
+    <configuration name="avg" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cbde.labs.hbase_mapreduce.MainLocal" />
+      <module name="mapreduce1" />
+      <option name="PROGRAM_PARAMETERS" value="-aggregationAvg $PROJECT_DIR$/input/wines.1000.sf $PROJECT_DIR$/output/aggregationAvg.out" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartesian" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cbde.labs.hbase_mapreduce.MainLocal" />
+      <module name="mapreduce1" />
+      <option name="PROGRAM_PARAMETERS" value="-cartesian $PROJECT_DIR$/input/wines.1000.sf $PROJECT_DIR$/output/cartesian.out" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="join" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cbde.labs.hbase_mapreduce.MainLocal" />
+      <module name="mapreduce1" />
+      <option name="PROGRAM_PARAMETERS" value="-join $PROJECT_DIR$/input/wines.1000.sf $PROJECT_DIR$/output/join.out" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="projection" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cbde.labs.hbase_mapreduce.MainLocal" />
+      <module name="mapreduce1" />
+      <option name="PROGRAM_PARAMETERS" value="-projection $PROJECT_DIR$/input/wines.1000.sf $PROJECT_DIR$/output/projection.out" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selection" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cbde.labs.hbase_mapreduce.MainLocal" />
+      <module name="mapreduce1" />
+      <option name="PROGRAM_PARAMETERS" value="-selection $PROJECT_DIR$/input/wines.1000.sf $PROJECT_DIR$/output/selection.out" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.projection" />
+      <item itemvalue="Application.selection" />
+      <item itemvalue="Application.avg" />
+      <item itemvalue="Application.cartesian" />
+      <item itemvalue="Application.join" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1802e5a-ba96-424b-9974-b79622ba8bfd" name="Default Changelist" comment="" />
+      <created>1606052763413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606052763413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606057424232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606057424232" />
+    <state x="438" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606054516545">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="438" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1606054516545" />
+    <state x="457" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606052816663">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1606052816663" />
+    <state width="1398" height="94" key="GridCell.Tab.0.bottom" timestamp="1606060944408">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606060944408" />
+    <state width="1398" height="94" key="GridCell.Tab.0.center" timestamp="1606060944407">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606060944407" />
+    <state width="1398" height="94" key="GridCell.Tab.0.left" timestamp="1606060944407">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606060944407" />
+    <state width="1398" height="94" key="GridCell.Tab.0.right" timestamp="1606060944407">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606060944407" />
+    <state x="391" y="0" width="1049" height="543" key="dock-window-1" timestamp="1606055135959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="391" y="0" width="1049" height="543" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1606055135959" />
+    <state x="420" y="82" width="599" height="735" key="find.popup" timestamp="1606059265506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="82" width="599" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1606059265506" />
+    <state x="420" y="230" key="refactoring.ChangeSignatureDialog" timestamp="1606058216976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="230" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1606058216976" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1606053194278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606053194278" />
+  </component>
+</project>
